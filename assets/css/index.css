@@ -1,0 +1,20 @@
+#banner {
+	background: url(../img/Placeholder_view_vector.png);
+	height: 700px;
+/*	background-repeat: no-repeat;*/
+	background-size: contain;
+	background-position: center;
+}
+
+.section-padding {
+	padding: 5rem 1rem;
+}
+
+.section-heading, .subsection-heading {
+	padding: 2rem 0;
+	text-align: center;
+}
+
+#important-dates {
+	background: #f6f3f3;
+}
