@@ -1,9 +1,10 @@
 #banner {
-	background: url(../img/Placeholder_view_vector.png);
-	height: 700px;
-/*	background-repeat: no-repeat;*/
-	background-size: contain;
-	background-position: center;
+	background: url(../img/colorado.jpeg);
+	height: 85vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	padding: 5rem;
 }
 
 .section-padding {
@@ -16,5 +17,18 @@
 }
 
 #important-dates {
-	background: #f6f3f3;
+	background: #920101;
+	color: white;
+}
+
+#sponsors {
+	background: #e5e5e5;
+}
+
+.section-height {
+	min-height: 100vh;
+}
+
+.icon-font-l {
+	font-size: 4rem;
 }
