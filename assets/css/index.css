@@ -4,6 +4,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
+/*	background-position: 0 5vh;*/
 	padding: 5rem;
 }
 
@@ -43,4 +44,9 @@
 
 .nav-link.active {
 	font-weight: 700;
+}
+
+.nav-scrolled {
+	background-color: #f0f0f0;
+	transition: all .5s linear;
 }
