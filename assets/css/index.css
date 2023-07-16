@@ -32,3 +32,11 @@
 .icon-font-l {
 	font-size: 4rem;
 }
+
+.px-vw-m {
+	padding: 0 5vw;
+}
+
+.nav-item {
+	margin: auto .5rem;
+}
