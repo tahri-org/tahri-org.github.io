@@ -1,34 +1,4 @@
-#banner {
-	background: url(../img/colorado.jpeg);
-	height: 80vh;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top;
-/*	background-position: 0 5vh;*/
-	padding: 5rem 0;
-}
-
-.section-padding {
-	padding: 5rem 1rem;
-}
-
-.section-heading, .subsection-heading {
-	padding: 2rem 0;
-	text-align: center;
-}
-
-.section-height {
-	min-height: 70vh;
-}
-
-.icon-font-l {
-	font-size: 4rem;
-}
-
-.px-vw-m {
-	padding: 0 5vw;
-}
-
+/* NAV */
 .nav-item {
 	margin: auto .5rem;
 }
@@ -46,7 +16,39 @@
 	padding: 0;
 }
 
+.navbar-collapse {	
+	background-color: #f0f0f0;
+}
+
+/* NAV END */
+
+#banner {
+	background: url(../img/colorado.jpeg);
+	height: 80vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	padding: 5rem 0;
+}
+
+.icon-font-l {
+	font-size: 4rem;
+}
+
 /*SECTIONS*/
+.section-padding {
+	padding: 5rem 1rem;
+}
+
+.section-heading, .subsection-heading {
+	padding: 2rem 0;
+	text-align: center;
+}
+
+.section-height {
+	min-height: 70vh;
+}
+
 #important-dates, #partner-events {
 	background: #920101;
 	color: white;
