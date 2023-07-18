@@ -17,17 +17,8 @@
 	text-align: center;
 }
 
-#important-dates {
-	background: #920101;
-	color: white;
-}
-
-#sponsors {
-	background: #e5e5e5;
-}
-
 .section-height {
-	min-height: 100vh;
+	min-height: 70vh;
 }
 
 .icon-font-l {
@@ -54,3 +45,14 @@
 .navbar-brand {
 	padding: 0;
 }
+
+/*SECTIONS*/
+#important-dates, #partner-events {
+	background: #920101;
+	color: white;
+}
+
+#sponsors {
+	background: #e5e5e5;
+}
+/*SECTIONS END*/
