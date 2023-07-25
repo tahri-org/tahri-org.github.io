@@ -23,12 +23,8 @@
 /* NAV END */
 
 #banner {
-	background: url(../img/colorado.jpeg);
 	height: 80vh;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top;
-	padding: 5rem 0;
+	padding: 20vh 0;
 }
 
 .icon-font-l {
