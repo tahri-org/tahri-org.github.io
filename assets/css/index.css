@@ -23,12 +23,9 @@
 /* NAV END */
 
 #banner {
-	background: url(../img/colorado.jpeg);
 	height: 80vh;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top;
-	padding: 5rem 0;
+	display: flex;
+	align-items: center;
 }
 
 .icon-font-l {
