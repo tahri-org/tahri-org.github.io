@@ -26,7 +26,7 @@
 	height: 80vh;
 	display: flex;
 	align-items: center;
-	background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../img/colorado.jpeg);
+	background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url(../img/colorado.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
